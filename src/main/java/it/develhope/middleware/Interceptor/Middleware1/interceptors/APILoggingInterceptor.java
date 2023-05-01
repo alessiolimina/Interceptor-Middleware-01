@@ -1,6 +1,5 @@
 package it.develhope.middleware.Interceptor.Middleware1.interceptors;
 
-import it.develhope.middleware.Interceptor.Middleware1.controllers.BasicController;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Component;
